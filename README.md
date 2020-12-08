@@ -6,7 +6,7 @@
 [![License](https://img.shields.io/badge/license-GPL%20V3-blue.svg?longCache=true)](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
 
-trojan多用户管理部署程序
+trojan多用户管理部署程序  使用Debian 10 部署
 
 ## 功能
 - 在线web页面和命令行两种方式管理trojan多用户
